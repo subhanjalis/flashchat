@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194786159094",
+    "project_id": "texting-app-812cd",
+    "storage_bucket": "texting-app-812cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194786159094:android:1efa38c728fa9527fb7fd7",
+        "android_client_info": {
+          "package_name": "co.subhanjali.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194786159094-552fm091met23ac81rpnerubjnla39hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbnODkQhXS7eC2yeNCKqiCq9uOq6TOhac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194786159094-552fm091met23ac81rpnerubjnla39hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
